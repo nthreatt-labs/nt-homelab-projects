@@ -1,4 +1,4 @@
-# NT Homelab Projects
+# NT.local Homelab Projects
 
 This repository documents hands-on infrastructure, networking, and cybersecurity lab projects built to simulate enterprise IT environments.
 
